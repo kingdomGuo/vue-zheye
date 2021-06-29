@@ -1,6 +1,6 @@
 # 使用 Typescript + Vue3.0 从零到一测试到上线 高仿知乎专栏
 
-## 课程亮点
+## 亮点
 
 * Vue3 + Typescript,2020年最火技术双剑合璧，Vue3 配合 Typescript ，使用新版Vuex 和 Vue-Router 全家桶完成前后端分离复杂项目
 
